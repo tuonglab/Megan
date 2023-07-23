@@ -1,0 +1,5 @@
+wheel
+jupyter
+scanpy[leiden]==1.9.3
+
+
